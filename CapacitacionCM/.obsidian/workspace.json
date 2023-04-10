@@ -13,21 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
+                "file": "Teoria/Azure Fundamentals/Arquitectura y los servicios de Azure.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "664a322249b7ecdd",
+            "id": "fc7078126ca4ef5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Teoria/Anexos/gf479t6x.bmp"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
+                "file": "Teoria/Anexos/gf479t6x.bmp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
+                "file": "Teoria/Anexos/gf479t6x.bmp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md"
+                "file": "Teoria/Anexos/gf479t6x.bmp"
               }
             }
           }
@@ -154,15 +157,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a99864a83e2bd03",
+  "active": "fc7078126ca4ef5c",
   "lastOpenFiles": [
-    "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
-    "Azure Fundamentals/Azure Fundamentals.md",
+    "Practicas/JavaScript/hello-world.js",
+    "Practicas/JavaScript/hello-world.html",
+    "Practicas/C++/hello-world.c++",
+    "Practicas/Python/hello-world.py",
+    "Practicas/Python/hello-worl.py",
+    "Practicas/JavaScript/hello-worl.js",
+    "Practicas/Python/hello worl.md",
+    "Practicas/Python/hello worl.py",
+    "Teoria/Anexos/gf479t6x.bmp",
+    "Practicas/JavaScript",
+    "Practicas/C++",
+    "Practicas/Python",
+    "Practicas",
+    "Teoria/ITIL QUE ES Y PARA QUE SIRVE.md",
+    "Teoria/Azure Fundamentals/Arquitectura y los servicios de Azure.md",
+    "Teoria/Azure Fundamentals/Azure Fundamentals.md",
     "Azure Fundamentals/Anexos/Pasted image 20230410163234.png",
-    "Azure Fundamentals/Anexos",
     "Pasted image 20230410162321.png",
-    "Pasted image 20230410162135.png",
-    "Azure Fundamentals/Azure Fundamentals.txt",
-    "Azure Fundamentals"
+    "Pasted image 20230410162135.png"
   ]
 }
