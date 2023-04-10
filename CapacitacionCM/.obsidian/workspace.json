@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "74383ee174d03e00",
+        "id": "ea0253184b0cd73c",
         "type": "tabs",
         "children": [
           {
-            "id": "bb73a5c76074b2b3",
+            "id": "8a99864a83e2bd03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure Fundamentals/Azure Fundamentals.md",
+                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "664a322249b7ecdd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure Fundamentals/Azure Fundamentals.md",
+                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure Fundamentals/Azure Fundamentals.md",
+                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure Fundamentals/Azure Fundamentals.md"
+                "file": "Azure Fundamentals/Arquitectura y los servicios de Azure.md"
               }
             }
           }
@@ -146,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb73a5c76074b2b3",
+  "active": "8a99864a83e2bd03",
   "lastOpenFiles": [
+    "Azure Fundamentals/Arquitectura y los servicios de Azure.md",
+    "Azure Fundamentals/Azure Fundamentals.md",
     "Azure Fundamentals/Anexos/Pasted image 20230410163234.png",
     "Azure Fundamentals/Anexos",
     "Pasted image 20230410162321.png",
-    "Azure Fundamentals/Azure Fundamentals.md",
     "Pasted image 20230410162135.png",
     "Azure Fundamentals/Azure Fundamentals.txt",
     "Azure Fundamentals"

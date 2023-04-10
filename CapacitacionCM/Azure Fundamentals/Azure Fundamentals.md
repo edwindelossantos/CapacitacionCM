@@ -33,12 +33,12 @@ El modelo de servicio determinará la responsabilidad de cosas como lo siguiente
 -   APLICACIONES
 -   Identidad e infraestructura
 
+![Cloud services models - Hands-On Cloud Administration in Azure](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.packt-cdn.com%2Fproducts%2F9781789134964%2Fgraphics%2F47530d56-9543-4844-bc1f-731f7100e7d8.png&f=1&nofb=1&ipt=9060004eee5e3ba46c88435e3826b35fb5f32eccebfed3c73696bcea316d86c6&ipo=images)
 
 # Definición de modelos en la nube
 
-![[Pasted image 20230410163234.png]]
 
-
+![Salesforce.com Sharpening: ☁Cloud Computing☁](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-WkPlOhwTjjw%2FVAvwA9hVZBI%2FAAAAAAAAF84%2FuWLrFCEwp6M%2Fs1600%2Fclouddiensteniaaspaassaasmetvoorbeelden.jpg&f=1&nofb=1&ipt=00b247d07ad57f90016beb2dda15bc8a7aeead4ba1750b38d04b6b881eab53ac&ipo=images)
 
 
 
