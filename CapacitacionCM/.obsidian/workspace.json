@@ -11,8 +11,12 @@
             "id": "bb73a5c76074b2b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Azure Fundamentals/Azure Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Azure Fundamentals/Azure Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Azure Fundamentals/Azure Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Azure Fundamentals/Azure Fundamentals.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "bb73a5c76074b2b3",
   "lastOpenFiles": [
+    "Pasted image 20230410162321.png",
     "Azure Fundamentals/Azure Fundamentals.md",
     "Pasted image 20230410162135.png",
     "Azure Fundamentals/Azure Fundamentals.txt",

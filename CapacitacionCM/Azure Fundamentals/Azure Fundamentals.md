@@ -10,10 +10,7 @@ La informática en la nube es la prestación de servicios informáticos a travé
 
 
 Responsabilidad compartida
-
-![[Pasted image 20230410162135.png]]
-
-
+![[Pasted image 20230410162321.png]]
 
 
 
