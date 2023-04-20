@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/Aspectos básicos de GitHub.md",
+                "file": "Teoria/ITIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0481e11f2fd9099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/ISO 127001 QUE ES Y PARA QUE SIRVE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria/Aspectos básicos de GitHub.md",
+                "file": "Teoria/ISO 127001 QUE ES Y PARA QUE SIRVE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria/Aspectos básicos de GitHub.md",
+                "file": "Teoria/ISO 127001 QUE ES Y PARA QUE SIRVE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria/Aspectos básicos de GitHub.md"
+                "file": "Teoria/ISO 127001 QUE ES Y PARA QUE SIRVE.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c79b82f3b45189d9",
+  "active": "f0481e11f2fd9099",
   "lastOpenFiles": [
+    "Teoria/ITIL.md",
+    "Teoria/ISO 127001 QUE ES Y PARA QUE SIRVE.md",
+    "Teoria/Aspectos básicos de GitHub.md",
     "Teoria/Anexos/Pasted image 20230412111959.png",
     "Teoria/Anexos/Pasted image 20230412102233.png",
     "Practicas/C++/hello-world.txt",
     "Practicas/C++/hello-world.c",
     "Practicas/C++/hello-world.cpp",
-    "Teoria/ITIL.md",
-    "Teoria/Aspectos básicos de GitHub.md",
     "Teoria/Azure Fundamentals/Arquitectura y los servicios de Azure.md",
     "Teoria/Anexos/gf479t6x.bmp",
     "Practicas/JavaScript/hello-world.js",
