@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23a01e5431aa1540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/Virtualizacion y Vmware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria/Python/Operadores Matematicos Python.md",
+                "file": "Teoria/Virtualizacion y Vmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria/Python/Operadores Matematicos Python.md",
+                "file": "Teoria/Virtualizacion y Vmware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria/Python/Operadores Matematicos Python.md"
+                "file": "Teoria/Virtualizacion y Vmware.md"
               }
             }
           }
@@ -147,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f77172debdf15309",
+  "active": "23a01e5431aa1540",
   "lastOpenFiles": [
+    "Practicas/C++/1-Inversion.cpp",
+    "Practicas/C++/hello-world.cpp",
+    "Teoria/Python/Operadores Matematicos Python.md",
+    "Teoria/Virtualizacion y Vmware.md",
     "Teoria/Python/Anexos/Pasted image 20230424144648.png",
     "Teoria/Python/Anexos/Pasted image 20230424144628.png",
     "Teoria/Python/Anexos/Pasted image 20230424144529.png",
@@ -157,7 +174,6 @@
     "Teoria/Anexos/Pasted image 20230424144227.png",
     "Teoria/Anexos/Pasted image 20230424144145.png",
     "Teoria/Anexos/Pasted image 20230424144038.png",
-    "Teoria/Python/Operadores Matematicos Python.md",
     "Teoria/ITIL.md",
     "Teoria/ISO 127001 QUE ES Y PARA QUE SIRVE.md",
     "Practicas/JavaScript/1-Inversion.js",
@@ -169,13 +185,11 @@
     "Teoria/Anexos/Pasted image 20230412102233.png",
     "Practicas/C++/hello-world.txt",
     "Practicas/C++/hello-world.c",
-    "Practicas/C++/hello-world.cpp",
     "Teoria/Azure Fundamentals/Arquitectura y los servicios de Azure.md",
     "Teoria/Anexos/gf479t6x.bmp",
     "Practicas/JavaScript/hello-world.js",
     "Practicas/Python/hello worl.md",
     "Teoria/Azure Fundamentals/Azure Fundamentals.md",
-    "Azure Fundamentals/Anexos/Pasted image 20230410163234.png",
-    "Pasted image 20230410162321.png"
+    "Azure Fundamentals/Anexos/Pasted image 20230410163234.png"
   ]
 }
